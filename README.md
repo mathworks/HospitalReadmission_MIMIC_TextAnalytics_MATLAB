@@ -3,7 +3,7 @@ For this analysis, MIMIC-III data has been downloaded from https://physionet.org
 
 **Goal**: Build a model to predict if there will be an unintended readmission within 30 days using the notes from doctors and nurses.
 
-![](/Picture1.tif)
+![](Picture1.tif)
 
 This demo has 4 .mlx files.
 * Overview_MIMIC_Demo_00.mlx: This provides overview of the demo.

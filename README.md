@@ -1,7 +1,7 @@
 ### Predict Hospital Readmissions using Text Analytics in MATLAB
-For this analysis, MIMIC-III data has been downloaded from https://physionet.org/content/mimiciii/1.4/ and used to bulid a model to predict hospital readmissions.
+**Goal**: Build a model to predict if there will be an unintended readmission within 30 days by analyzing notes of doctors and nurses using text analytics techniques in MATLAB.
 
-**Goal**: Build a model to predict if there will be an unintended readmission within 30 days using the notes from doctors and nurses.
+For this analysis, MIMIC-III data has been downloaded from https://physionet.org/content/mimiciii/1.4/ and used to bulid a model to predict hospital readmissions.
 
 ![](Picture2.png)
 

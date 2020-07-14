@@ -10,3 +10,8 @@ This demo has 4 .mlx files.
 * ReadData_MIMIC_Demo_01.mlx: Import all relevant information, manipulate to clean and filter the data, and finally combine to make a single dataset for building the model.
 * Preprocess_MIMIC_Demo_02.mlx: Preprocess the data to get it ready for building a predictive model.
 * BuildModel_MIMIC_Demo_03.mlx: Build a model and test to ensure acceptable accuracy.
+
+## References
+Johnson, A., Pollard, T., & Mark, R. (2016). MIMIC-III Clinical Database (version 1.4). PhysioNet. https://doi.org/10.13026/C2XW26.
+Johnson, A. E. W., Pollard, T. J., Shen, L., Lehman, L. H., Feng, M., Ghassemi, M., Moody, B., Szolovits, P., Celi, L. A., & Mark, R. G. (2016). MIMIC-III, a freely accessible critical care database. Scientific Data, 3, 160035.
+Goldberger, A., Amaral, L., Glass, L., Hausdorff, J., Ivanov, P. C., Mark, R., ... & Stanley, H. E. (2000). PhysioBank, PhysioToolkit, and PhysioNet: Components of a new research resource for complex physiologic signals. Circulation [Online]. 101 (23), pp. e215–e220.
